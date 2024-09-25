@@ -139,6 +139,9 @@
 
 <img src="./imgs/tutorial/1.3.2.png" style="zoom:40%;" />
 
+HSC: 记得打开这里的 Read and write permissions
+![image](https://github.com/user-attachments/assets/35be750d-99b0-4590-bab0-d8a33ff8fce2)
+
 ## <img src="./imgs/icon/cog.png" width="25" />定制化指南
 
 MyArxiv是高度可定制化的，使用者可以根据自己的实际需求进行更改，实现个性化定制，如下内容对于可定制化的部分进行说明。
