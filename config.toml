@@ -3,7 +3,7 @@ limit_days = 7
 cache_url = "https://journey7331.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 200
+limit = 300
 category = "cs.CV"
 title = "Computer Vision and Pattern Recognition"
 
